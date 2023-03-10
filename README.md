@@ -7,7 +7,7 @@ Interfata grafica a fost creata cu libraria PyQt5 iar graficele cu libraria matp
 
 ## Demo
 
-![[demo.webm]]
+![demo rulare aplicatie](.github/demo.gif)
 
 ## Rulare
 1.
